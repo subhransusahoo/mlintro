@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This workshop will begin with creating a Node.js bot in the Azure portal using Azure Bot Services. We will discuss the basics of a bot and how to use Azure Bot Service with LUIS (Language Understanding Intelligent Service). We will also learn how to visualize app analytics in Power Bi. For the first half of the workshop you only need to be logged into your Azure portal and luis.ai.
+This workshop will begin with creating a Node.js bot in the Azure portal using Azure Bot Services. We will discuss the basics of a bot and how to use Azure Bot Service with LUIS (Language Understanding Intelligent Service). We will also learn how to visualize app analytics in Power BI. For the first half of the workshop you only need to be logged into your Azure portal and luis.ai.
 
 The second half of the workshop will demo Cognitive Services APIs and walk through how to create a FAQ bot using QnA Maker.
 
@@ -14,7 +14,7 @@ This workshop will get you ready to begin developing Bots, and includes hands-on
 * LUIS
 * Cognitive Services
 * Deployment
-* Visualizing Analytics in Power Bi
+* Visualizing Analytics in Power BI
 
 ## Account Setup
 * [QnA Maker Account](https://www.qnamaker.ai/)
@@ -106,14 +106,14 @@ For up to 120 languages, detect which language the input text is written in and 
 Identify and categorize entities in your text as people, places, organizations, date/time, quantities, percentages, currencies, and more. Well-known entities are also recognized and linked to more information on the web.
 REST
 
-## Visualizing Analytics in Power Bi
+## Visualizing Analytics in Power BI
 [Power BI](https://powerbi.microsoft.com/) is a suite of business tools that helps you analyze data and share insights. Rich dashboards are available on every device. You can combine data from many sources, including Analytics queries from Azure Application Insights.
 
 For this example we will learn how to export analytics queries. This is the preferred method. Write any query you want and export it to Power BI. You can place this query on a dashboard, along with any other data.
 
 First, [download Power BI Desktop](https://powerbi.microsoft.com)
 
-Then follow the steps here to create a query and import it into Power Bi desktop: <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-export-power-bi?toc=/azure/azure-monitor/toc.json>
+Then follow the steps here to create a query and import it into Power BI desktop: <https://docs.microsoft.com/en-us/azure/application-insights/app-insights-export-power-bi?toc=/azure/azure-monitor/toc.json>
 ## Resources
 * [Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
 * [Azure Cognitive Services Overview](https://azure.microsoft.com/en-us/services/cognitive-services)
