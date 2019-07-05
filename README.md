@@ -8,5 +8,5 @@
 * [ML using Databricks - AML, AutoML](./05-MLDatabricks.md) (20)
 * [Data Prep & Exploratory Data Analysis using Databricks](./06-DataPrepDatabricks.md) (20)
 * [Data sets](./07-DataSets.md) (30)
-* [Cognitive Services & Bot Framework](./08-CognitivesServices.md) (30)
+* [Cognitive Services & Bot Framework](./08-CognitivesServices.md) (45)
 
