@@ -1,4 +1,10 @@
-# mlintro
+# Workshops
+## Introduction
+Documentation and code to help you get up and running with the Azure Machine Learning service, Azure Databricks, Cognitive Services and the Bot Framework.
+
+## Optional Local Software
+For most activities, you'll be able to access Azure Machine Learning and Azure Databricks through your web broswer. If you want to build and test a Bot, you'll need to set up your [Windows PC or Mac](./BotRequirements.md) for local development. 
+
 ## Agenda
 
 * [Azure Overview, Analytics, AI landscape](./01-AzOverview.md) (30)
